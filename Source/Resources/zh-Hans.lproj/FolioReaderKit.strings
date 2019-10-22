@@ -1,0 +1,36 @@
+/* 
+  Localizable.strings
+  FolioReaderKit
+
+  Created by xuchao on 2019/10/22.
+  Copyright © 2019 FolioReader. All rights reserved.
+*/
+"Highlights" = "笔记";
+"Contents" = "目录";
+"Highlight" = "重点";
+"Define" = "查询";
+"Play" = "播放";
+"Pause" = "暂停";
+"Night" = "夜间";
+"Style" = "样式";
+"Day" = "白天";
+"Horizontal" = "水平";
+"Vertical" = "垂直";
+"1 page left" = "还剩1页";
+"pages left" = "剩余页数";
+"minutes" = "分钟";
+"1 minute" = "1分钟";
+"Less than a minute" = "不到一分钟";
+"Check out this chapter from" = "查阅本章";
+"Notes from" = "来自的注释";
+"All excerpts from" = "所有摘录来自";
+"by" = "通过";
+"Cancel" = "取消";
+"Share" = "分享";
+"Choose existing" = "选择现有";
+"Take Photo" = "拍照";
+"Share image quote" = "分享图片引用";
+"Share text quote" = "分享文本引用";
+"Save" = "保存";
+"Note" = "注释";
+

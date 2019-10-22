@@ -1,0 +1,35 @@
+/* 
+  FolioReaderKit.strings
+  FolioReaderKit
+
+  Created by xuchao on 2019/10/22.
+  Copyright © 2019 FolioReader. All rights reserved.
+*/
+"Highlights" = "Highlights";
+"Contents" = "Contents";
+"Highlight" = "Highlight";
+"Define" = "Define";
+"Play" = "Play";
+"Pause" = "Pause";
+"Night" = "Night";
+"Style" = "Style";
+"Day" = "Day";
+"Horizontal" = "Horizontal";
+"Vertical" = "Vertical";
+"1 page left" = "1 page left";
+"pages left" = "pages left";
+"minutes" = "minutes";
+"1 minute" = "1 minute";
+"Less than a minute" = "Less than a minute";
+"Check out this chapter from" = "Check out this chapter from";
+"Notes from" = "Notes from";
+"All excerpts from" = "All excerpts from";
+"by" = "by";
+"Cancel" = "Cancel";
+"Share" = "Share";
+"Choose existing" = "Choose existing";
+"Take Photo" = "Take Photo";
+"Share image quote" = "Share image quote";
+"Share text quote" = "Share text quote";
+"Save" = "Save";
+"Note" = "Note";
