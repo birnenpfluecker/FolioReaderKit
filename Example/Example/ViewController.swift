@@ -35,11 +35,10 @@ class ViewController: UIViewController {
 //        config.enableTTS = false
 //        config.displayTitle = true
 //        config.allowSharing = false
-//        config.tintColor = UIColor(red: 55/255, green: 55/255, blue: 55/255, alpha: 1.0)
+//        config.tintColor = UIColor.blueColor()
 //        config.toolBarTintColor = UIColor.redColor()
 //        config.toolBarBackgroundColor = UIColor.purpleColor()
-//        config.menuTextColor = UIColor.red
-//        config.menuTextColorSelected = config.tintColor
+//        config.menuTextColor = UIColor.brownColor()
 //        config.menuBackgroundColor = UIColor.lightGrayColor()
 //        config.hidePageIndicator = true
 //        config.realmConfiguration = Realm.Configuration(fileURL: FileManager.default.urls(for: .documentDirectory, in: .userDomainMask).first?.appendingPathComponent("highlights.realm"))
