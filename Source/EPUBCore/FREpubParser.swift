@@ -268,7 +268,7 @@ class FREpubParser: NSObject, SSZipArchiveDelegate {
             if tocResource.mediaType == MediaType.ncx {
                 let ncxData = try Data(contentsOf: URL(fileURLWithPath: tocPath), options: .alwaysMapped)
                 let xmlDoc = try AEXMLDocument(xml: ncxData)
-                if let itemsList = xmlDoc.root["navMap"]["navPoint"].all {
+                if let itemsList = xmlDoc.root["navMap"]["navPoint"]["navPoint"].all {
                     tocItems = itemsList
                 }
             } else {
